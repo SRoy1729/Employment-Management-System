@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Real employee data (private) - the program recreates these files automatically
+data/*.json
+data/*.bak
+
+# VS Code and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
