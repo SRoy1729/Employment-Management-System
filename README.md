@@ -52,7 +52,6 @@ Employment-Management-System/
 
 1. Install Python 3 from https://www.python.org/downloads/ (tick "Add Python to PATH" on Windows).
 2. Download or clone this project.
-3. No extra libraries are needed.
 
 ## How to Run
 
@@ -83,7 +82,7 @@ Enter your choice: 2
 
 ID      Name                  Department        Position                     Salary
 ------------------------------------------------------------------------------------
-EMP001  Riya Sen              IT                Developer             Rs. 40,000.00
+EMP001  Subir Roy              IT              Data Analyst             Rs. 92,000.00
 
 Total employees: 1
 ```
@@ -98,4 +97,5 @@ Total employees: 1
 
 ## Author
 
-Your Name - BCA Project
+Your Name - Swagata Roy
+date: 09/11/2026
