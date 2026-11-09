@@ -1,4 +1,4 @@
-# Employment Management System
+# Employment Management System || SWAGATA ROY ||
 
 A console-based (command line) application, written in beginner-level Python 3, that lets an administrator manage employees, salaries, departments and attendance. All data is stored permanently in JSON files.
 
@@ -97,5 +97,5 @@ Total employees: 1
 
 ## Author
 
-Your Name - Swagata Roy
+Your Name - Swagata Roy ||
 date: 09/11/2026
